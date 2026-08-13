@@ -1,0 +1,476 @@
+{
+  "items": [
+    {
+      "description": "Legend: 💙 Official resource",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "💙 Repository",
+          "description": "Official Tailwind CSS repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:06:39Z",
+            "owner": "tailwindlabs",
+            "repo": "tailwindcss",
+            "stars": 97222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💙 Headless UI",
+          "description": "Completely unstyled, fully accessible UI components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-13T16:12:31Z",
+            "owner": "tailwindlabs",
+            "repo": "headlessui",
+            "stars": 28709
+          }
+        }
+      ],
+      "title": "Useful links"
+    },
+    {
+      "description": "Legend: 💙 Official resource",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LSP support for Emacs",
+          "description": "Provides IntelliSense in Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-05-16T03:10:44Z",
+            "owner": "merrickluo",
+            "repo": "lsp-tailwindcss",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editor support for VS2022",
+          "description": "IntelliSense, linting, sorting, and more in Visual Studio 2022.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-21T04:29:35Z",
+            "owner": "theron-wang",
+            "repo": "Tailwind-CSS-for-Visual-Studio",
+            "stars": 149
+          }
+        }
+      ],
+      "title": "IDE extensions"
+    },
+    {
+      "description": "Legend: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "💙💼 Prettier plugin",
+          "description": "Official Tailwind CSS plugin for Prettier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T09:02:38Z",
+            "owner": "tailwindlabs",
+            "repo": "prettier-plugin-tailwindcss",
+            "stars": 7123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 Config viewer",
+          "description": "Local UI tool for visualizing your Tailwind CSS configuration file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-11-22T04:02:27Z",
+            "owner": "rogden",
+            "repo": "tailwind-config-viewer",
+            "stars": 2211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼",
+          "description": "Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:16:31Z",
+            "owner": "nuxt-modules",
+            "repo": "tailwindcss",
+            "stars": 1867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 tailwindcss-rails",
+          "description": "Gem for using Tailwind CSS with Rails' asset pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T14:23:10Z",
+            "owner": "rails",
+            "repo": "tailwindcss-rails",
+            "stars": 1592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔼 RustyWind",
+          "description": "CLI tool for sorting Tailwind CSS classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:09:20Z",
+            "owner": "avencera",
+            "repo": "rustywind",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔼 Tailwind to Inline styles converter",
+          "description": "Converts Tailwind CSS classes to inline styles in email templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-19T13:49:23Z",
+            "owner": "vardan-arm",
+            "repo": "tailwind-to-inline",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Legend: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📚 Daisy UI",
+          "description": "UI Components for Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T13:48:08Z",
+            "owner": "saadeghi",
+            "repo": "daisyui",
+            "stars": 42054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Flowbite Admin Dashboard",
+          "description": "Open-source admin dashboard template built with Tailwind CSS and Flowbite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-20T10:26:05Z",
+            "owner": "themesberg",
+            "repo": "flowbite-admin-dashboard",
+            "stars": 2863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Admin One Vue 3",
+          "description": "Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-11-27T15:53:43Z",
+            "owner": "justboil",
+            "repo": "admin-one-vue-tailwind",
+            "stars": 2462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Astro Template Cactus",
+          "description": "Tailwind CSS Astro starter template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-25T03:48:19Z",
+            "owner": "chrismwilliams",
+            "repo": "astro-theme-cactus",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Admin One React",
+          "description": "Free React.js Tailwind CSS admin template with Next.js & TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-24T08:14:19Z",
+            "owner": "justboil",
+            "repo": "admin-one-react-tailwind",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Astro Template Dante",
+          "description": "Tailwind CSS & Astro blog/portfolio template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-21T17:43:04Z",
+            "owner": "JustGoodUI",
+            "repo": "dante-astro-theme",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧩 Xtend UI",
+          "description": "Tailwind CSS components with advanced interactions and animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T12:19:40Z",
+            "owner": "xtendui",
+            "repo": "xtendui",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📚 Date picker",
+          "description": "Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T09:35:33Z",
+            "owner": "themesberg",
+            "repo": "flowbite-datepicker",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📁 Astro Template Ovidius",
+          "description": "Tailwind CSS & Astro blog template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-21T17:12:02Z",
+            "owner": "JustGoodUI",
+            "repo": "ovidius-astro-theme",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "UI libraries, components & templates"
+    },
+    {
+      "description": "Legend: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧩 Components · 🛑 Deprecated",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "💙🧩 Typography",
+          "description": "Adds a class for beautiful typographic defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-08T10:27:36Z",
+            "owner": "tailwindlabs",
+            "repo": "tailwindcss-typography",
+            "stars": 6443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💙 Forms",
+          "description": "Adds better default styles to form elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-12T14:00:27Z",
+            "owner": "tailwindlabs",
+            "repo": "tailwindcss-forms",
+            "stars": 4567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼🧩 Fluid",
+          "description": "Adds fluid versions of every built-in utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-17T20:29:17Z",
+            "owner": "barvian",
+            "repo": "fluid-tailwind",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧩 Debug screens",
+          "description": "Adds a component that shows the currently active screen (responsive breakpoint).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-27T20:45:30Z",
+            "owner": "jorenvanhee",
+            "repo": "tailwindcss-debug-screens",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 Scrollbar Hide",
+          "description": "Adds class for visual hide scrollbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-24T13:45:21Z",
+            "owner": "reslear",
+            "repo": "tailwind-scrollbar-hide",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 Themer",
+          "description": "Adds theming support for Tailwind CSS with CSS variables and variants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:34:04Z",
+            "owner": "RyanClementsHax",
+            "repo": "tailwindcss-themer",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 Bootstrap grid",
+          "description": "Generates Bootstrap's style flexbox grid system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T16:24:56Z",
+            "owner": "karolis-sh",
+            "repo": "tailwind-bootstrap-grid",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 Leading Trim",
+          "description": "Adds utilities to trim text whitespace, using Capsize.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:58:51Z",
+            "owner": "stormwarning",
+            "repo": "tailwindcss-capsize",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 tw-fade",
+          "description": "Adds /// utilities that enable scroll-aware edge fading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T19:42:20Z",
+            "owner": "petekp",
+            "repo": "tw-fade",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 Dot & grid backgrounds",
+          "description": "Adds and classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-06T05:59:35Z",
+            "owner": "TheNaubit",
+            "repo": "tailwind-dot-grid-backgrounds",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 px to viewport",
+          "description": "Adds utilities to automatically convert px to vw / vh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-07-27T11:10:59Z",
+            "owner": "the-lemonboy",
+            "repo": "tailwindcss-px-to-viewport",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💼 tailwind-hitslop",
+          "description": "Adds utilities to invisibly expand touch targets, like React Native's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T17:55:44Z",
+            "owner": "Jubstaaa",
+            "repo": "tailwind-hitslop",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Plugins"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:34:30.414Z",
+    "original_repository": "aniftyco/awesome-tailwindcss",
+    "original_repository_sha": "30cd8f036d4ced690844dfd68e28a89bc3e1111c",
+    "enhanced_repository": "enhansome/enhansome-tailwindcss",
+    "enhanced_repository_description": null,
+    "title": "Awesome tailwindcss with stars"
+  }
+}
