@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:06:39Z",
+            "last_commit": "2026-08-13T21:16:32Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97222
+            "stars": 97236
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2026-07-15T09:02:38Z",
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7123
+            "stars": 7124
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-11T14:23:10Z",
             "owner": "rails",
             "repo": "tailwindcss-rails",
-            "stars": 1592
+            "stars": 1591
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-11T13:48:08Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42054
+            "stars": 42069
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1706
+            "stars": 1707
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-07-21T17:43:04Z",
             "owner": "JustGoodUI",
             "repo": "dante-astro-theme",
-            "stars": 503
+            "stars": 504
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6443
+            "stars": 6446
           }
         },
         {
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:34:30.414Z",
+    "last_updated": "2026-08-13T23:21:02.307Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
     "original_repository_sha": "30cd8f036d4ced690844dfd68e28a89bc3e1111c",
     "enhanced_repository": "enhansome/enhansome-tailwindcss",
