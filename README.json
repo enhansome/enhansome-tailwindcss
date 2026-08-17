@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97261
+            "stars": 97250
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-13T16:12:31Z",
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28712
+            "stars": 28710
           }
         }
       ],
@@ -96,7 +96,7 @@
             "last_commit": "2024-11-22T04:02:27Z",
             "owner": "rogden",
             "repo": "tailwind-config-viewer",
-            "stars": 2211
+            "stars": 2213
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-16T01:56:08Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42096
+            "stars": 42106
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-11-27T15:53:43Z",
             "owner": "justboil",
             "repo": "admin-one-vue-tailwind",
-            "stars": 2463
+            "stars": 2464
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1712
+            "stars": 1711
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-07-21T17:43:04Z",
             "owner": "JustGoodUI",
             "repo": "dante-astro-theme",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6447
+            "stars": 6445
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-12T14:00:27Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-forms",
-            "stars": 4567
+            "stars": 4566
           }
         },
         {
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:51:42.705Z",
+    "last_updated": "2026-08-17T22:53:44.316Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
     "original_repository_sha": "d0e0de45e717b57137369b3a28ef4354c5d055cf",
     "enhanced_repository": "enhansome/enhansome-tailwindcss",
