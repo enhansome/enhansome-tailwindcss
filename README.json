@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97250
+            "stars": 97277
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-21T04:29:35Z",
             "owner": "theron-wang",
             "repo": "Tailwind-CSS-for-Visual-Studio",
-            "stars": 149
+            "stars": 148
           }
         }
       ],
@@ -96,7 +96,7 @@
             "last_commit": "2024-11-22T04:02:27Z",
             "owner": "rogden",
             "repo": "tailwind-config-viewer",
-            "stars": 2213
+            "stars": 2212
           }
         },
         {
@@ -169,10 +169,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T01:56:08Z",
+            "last_commit": "2026-08-18T01:07:12Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42106
+            "stars": 42116
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1711
+            "stars": 1712
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6445
+            "stars": 6448
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-12T14:00:27Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-forms",
-            "stars": 4566
+            "stars": 4567
           }
         },
         {
@@ -399,7 +399,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:16:30Z",
+            "last_commit": "2026-08-18T17:39:26Z",
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
             "stars": 122
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:53:44.316Z",
+    "last_updated": "2026-08-18T22:54:48.904Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
     "original_repository_sha": "d0e0de45e717b57137369b3a28ef4354c5d055cf",
     "enhanced_repository": "enhansome/enhansome-tailwindcss",
