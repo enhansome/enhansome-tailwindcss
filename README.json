@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106017343,
             "language": "TypeScript",
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97277
+            "stars": 97283
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295992065,
             "language": "TypeScript",
             "last_commit": "2026-04-13T16:12:31Z",
             "owner": "tailwindlabs",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 273465856,
             "language": "Emacs Lisp",
             "last_commit": "2026-05-16T03:10:44Z",
             "owner": "merrickluo",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668792750,
             "language": "C#",
             "last_commit": "2026-07-21T04:29:35Z",
             "owner": "theron-wang",
@@ -78,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400148747,
             "language": "TypeScript",
             "last_commit": "2026-07-15T09:02:38Z",
             "owner": "tailwindlabs",
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195070986,
             "language": "Vue",
             "last_commit": "2024-11-22T04:02:27Z",
             "owner": "rogden",
             "repo": "tailwind-config-viewer",
-            "stars": 2212
+            "stars": 2213
           }
         },
         {
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179467298,
             "language": "TypeScript",
             "last_commit": "2026-08-16T06:53:13Z",
             "owner": "nuxt-modules",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328128780,
             "language": "Ruby",
             "last_commit": "2026-08-16T14:37:03Z",
             "owner": "rails",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223418412,
             "language": "Rust",
             "last_commit": "2026-08-10T18:09:20Z",
             "owner": "avencera",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850988913,
             "language": "TypeScript",
             "last_commit": "2026-03-19T13:49:23Z",
             "owner": "vardan-arm",
@@ -168,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316836816,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T01:07:12Z",
+            "last_commit": "2026-08-19T01:05:46Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42116
+            "stars": 42123
           }
         },
         {
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586946500,
             "language": "HTML",
             "last_commit": "2025-03-20T10:26:05Z",
             "owner": "themesberg",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376839043,
             "language": "Vue",
             "last_commit": "2025-11-27T15:53:43Z",
             "owner": "justboil",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491806564,
             "language": "Astro",
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536714670,
             "language": "TypeScript",
             "last_commit": "2025-10-24T08:14:19Z",
             "owner": "justboil",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742011737,
             "language": "Astro",
             "last_commit": "2026-07-21T17:43:04Z",
             "owner": "JustGoodUI",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122732196,
             "language": "JavaScript",
             "last_commit": "2026-08-07T12:19:40Z",
             "owner": "xtendui",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409639691,
             "language": "JavaScript",
             "last_commit": "2026-06-27T09:35:33Z",
             "owner": "themesberg",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 705312715,
             "language": "Astro",
             "last_commit": "2026-07-21T17:12:02Z",
             "owner": "JustGoodUI",
@@ -300,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219020626,
             "language": "JavaScript",
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6448
+            "stars": 6449
           }
         },
         {
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312105797,
             "language": "HTML",
             "last_commit": "2026-05-12T14:00:27Z",
             "owner": "tailwindlabs",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756591238,
             "language": "TypeScript",
             "last_commit": "2025-03-17T20:29:17Z",
             "owner": "barvian",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218365475,
             "language": "JavaScript",
             "last_commit": "2025-03-27T20:45:30Z",
             "owner": "jorenvanhee",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334711124,
             "language": "HTML",
             "last_commit": "2025-08-24T13:45:21Z",
             "owner": "reslear",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437067148,
             "language": "TypeScript",
             "last_commit": "2026-08-16T02:38:28Z",
             "owner": "RyanClementsHax",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167566658,
             "language": "TypeScript",
             "last_commit": "2026-08-05T16:24:56Z",
             "owner": "karolis-sh",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286581041,
             "language": "TypeScript",
             "last_commit": "2026-08-18T17:39:26Z",
             "owner": "stormwarning",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1271845704,
             "language": "JavaScript",
             "last_commit": "2026-07-31T19:42:20Z",
             "owner": "petekp",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787317364,
             "language": "TypeScript",
             "last_commit": "2025-01-06T05:59:35Z",
             "owner": "TheNaubit",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 930149443,
             "language": "CSS",
             "last_commit": "2025-07-27T11:10:59Z",
             "owner": "the-lemonboy",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1258356437,
             "language": "TypeScript",
             "last_commit": "2026-07-26T17:55:44Z",
             "owner": "Jubstaaa",
@@ -466,8 +497,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:54:48.904Z",
+    "last_updated": "2026-08-19T12:53:16.853Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
+    "original_repository_id": 109994573,
     "original_repository_sha": "d0e0de45e717b57137369b3a28ef4354c5d055cf",
     "enhanced_repository": "enhansome/enhansome-tailwindcss",
     "enhanced_repository_description": null,
