@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97292
+            "stars": 97290
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-13T16:12:31Z",
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28714
+            "stars": 28715
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-15T09:02:38Z",
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7125
+            "stars": 7127
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 179467298,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:53:13Z",
+            "last_commit": "2026-08-21T03:08:08Z",
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
             "stars": 1867
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 223418412,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:05:07Z",
+            "last_commit": "2026-08-20T23:33:12Z",
             "owner": "avencera",
             "repo": "rustywind",
             "stars": 622
@@ -180,10 +180,10 @@
             "archived": false,
             "id": 316836816,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T22:49:51Z",
+            "last_commit": "2026-08-21T14:40:05Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42153
+            "stars": 42158
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1713
+            "stars": 1715
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6450
+            "stars": 6451
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:58:34.357Z",
+    "last_updated": "2026-08-21T22:54:21.524Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
     "original_repository_id": 109994573,
     "original_repository_sha": "d0e0de45e717b57137369b3a28ef4354c5d055cf",
