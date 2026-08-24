@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97312
+            "stars": 97318
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-24T06:25:46Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42183
+            "stars": 42187
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2025-03-20T10:26:05Z",
             "owner": "themesberg",
             "repo": "flowbite-admin-dashboard",
-            "stars": 2868
+            "stars": 2874
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1719
+            "stars": 1722
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-21T17:12:02Z",
             "owner": "JustGoodUI",
             "repo": "ovidius-astro-theme",
-            "stars": 116
+            "stars": 117
           }
         }
       ],
@@ -324,7 +324,7 @@
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6454
+            "stars": 6455
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:49:32.227Z",
+    "last_updated": "2026-08-24T22:56:18.550Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
     "original_repository_id": 109994573,
     "original_repository_sha": "d0e0de45e717b57137369b3a28ef4354c5d055cf",
