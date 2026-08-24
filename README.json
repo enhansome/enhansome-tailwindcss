@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97303
+            "stars": 97312
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-13T16:12:31Z",
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28718
+            "stars": 28720
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-15T09:02:38Z",
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7127
+            "stars": 7129
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 179467298,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T15:38:28Z",
+            "last_commit": "2026-08-24T04:13:08Z",
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
             "stars": 1868
@@ -180,10 +180,10 @@
             "archived": false,
             "id": 316836816,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T16:30:20Z",
+            "last_commit": "2026-08-24T06:25:46Z",
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42175
+            "stars": 42183
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-25T03:48:19Z",
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1717
+            "stars": 1719
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-06-08T10:27:36Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6451
+            "stars": 6454
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:52:30.434Z",
+    "last_updated": "2026-08-24T13:49:32.227Z",
     "original_repository": "aniftyco/awesome-tailwindcss",
     "original_repository_id": 109994573,
     "original_repository_sha": "d0e0de45e717b57137369b3a28ef4354c5d055cf",
