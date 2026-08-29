@@ -38,7 +38,7 @@
 
 **Legend**: 💙 Official resource
 
-* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 97,374 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-14 - Official Tailwind CSS repository.
+* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 97,375 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-14 - Official Tailwind CSS repository.
 * 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,725 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
 * 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 * 💙 [Tailwind Plus](https://tailwindcss.com/plus) - UI blocks, templates, and a UI kit by the Tailwind CSS team.

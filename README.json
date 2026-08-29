@@ -19,7 +19,7 @@
             "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97374,
+            "stars": 97375,
             "topics": [
               "css",
               "css-framework",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:50:25.411Z",
+    "last_updated": "2026-08-29T04:13:03.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
