@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-14T19:43:34Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97375,
+            "stars": 97391,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 109,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28725,
+            "stars": 28727,
             "topics": [
               "a11y",
               "accessibility",
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:58:16Z",
+            "last_commit": "2026-08-29T19:35:46Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -297,7 +297,7 @@
             "open_issues": 34,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42230,
+            "stars": 42246,
             "topics": [
               "component",
               "component-library",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:03.408Z",
+    "last_updated": "2026-08-30T00:37:39.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
