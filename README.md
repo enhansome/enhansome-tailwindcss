@@ -38,8 +38,8 @@
 
 **Legend**: 💙 Official resource
 
-* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 97,414 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-31 - Official Tailwind CSS repository.
-* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,729 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
+* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 97,420 | 🐛 63 | 🌐 TypeScript | 📅 2026-08-31 - Official Tailwind CSS repository.
+* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,731 | 🐛 109 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
 * 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 * 💙 [Tailwind Plus](https://tailwindcss.com/plus) - UI blocks, templates, and a UI kit by the Tailwind CSS team.
 * 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
@@ -59,10 +59,10 @@
 
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
-* 💙💼 [Prettier plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐ 7,130 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-15 - Official Tailwind CSS plugin for Prettier.
+* 💙💼 [Prettier plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐ 7,129 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-01 - Official Tailwind CSS plugin for Prettier.
 * 💼 [Config viewer](https://github.com/rogden/tailwind-config-viewer) ⭐ 2,214 | 🐛 43 | 🌐 Vue | 📅 2024-11-22 - Local UI tool for visualizing your Tailwind CSS configuration file.
-* 💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) ⭐ 1,867 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-30 - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
-* 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) ⭐ 1,588 | 🐛 6 | 🌐 Ruby | 📅 2026-08-16 - Gem for using Tailwind CSS with Rails' asset pipeline.
+* 💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) ⭐ 1,868 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-30 - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
+* 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) ⭐ 1,587 | 🐛 6 | 🌐 Ruby | 📅 2026-08-16 - Gem for using Tailwind CSS with Rails' asset pipeline.
 * 🔼 [RustyWind](https://github.com/avencera/rustywind) ⭐ 622 | 🐛 6 | 🌐 Rust | 📅 2026-08-26 - CLI tool for sorting Tailwind CSS classes.
 * 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) ⭐ 100 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-19 - Converts Tailwind CSS classes to inline styles in email templates.
 * 🎨🌍🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
@@ -86,9 +86,9 @@
 
 **Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
 
-* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,256 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-31 - UI Components for Tailwind CSS.
-* 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,877 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
-* 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) ⭐ 2,465 | 🐛 34 | 🌐 Vue | 📅 2025-11-27 - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,264 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-02 - UI Components for Tailwind CSS.
+* 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,878 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+* 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) ⭐ 2,468 | 🐛 34 | 🌐 Vue | 📅 2025-11-27 - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 * 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,726 | 🐛 8 | 🌐 Astro | 📅 2026-07-25 - Tailwind CSS Astro starter template.
 * 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) ⭐ 590 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-24 - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 * 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) ⭐ 510 | 🐛 8 | 🌐 Astro | 📅 2026-07-21 - Tailwind CSS & Astro blog/portfolio template.
@@ -124,7 +124,7 @@
 * 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) ⭐ 315 | 🐛 0 | 🌐 HTML | 📅 2025-08-24 - Adds `scrollbar-hide` class for visual hide scrollbar.
 * 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) ⭐ 314 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-23 - Adds theming support for Tailwind CSS with CSS variables and variants.
 * 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) ⭐ 189 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-05 - Generates Bootstrap's style flexbox grid system.
-* 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) ⭐ 122 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28 - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize) ⭐ 1,717 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-12.
+* 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) ⭐ 122 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-01 - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize) ⭐ 1,717 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-12.
 * 💼 [tw-fade](https://github.com/petekp/tw-fade) ⭐ 95 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-31 - Adds `fade-t`/`-b`/`-x`/`-y` utilities that enable scroll-aware edge fading.
 * 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) ⭐ 39 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-06 - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 * 💼 [px to viewport](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) ⭐ 10 | 🐛 0 | 🌐 CSS | 📅 2025-07-27 - Adds utilities to automatically convert px to vw / vh.
@@ -141,4 +141,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
