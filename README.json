@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T11:25:22Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-02T10:29:13Z",
+            "open_issues": 62,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97420,
+            "stars": 97434,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 109,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28731,
+            "stars": 28732,
             "topics": [
               "a11y",
               "accessibility",
@@ -145,7 +145,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7129,
+            "stars": 7132,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-02T00:13:32Z",
-            "open_issues": 37,
+            "open_issues": 42,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42264,
+            "stars": 42272,
             "topics": [
               "component",
               "component-library",
@@ -373,7 +373,7 @@
             "open_issues": 34,
             "owner": "justboil",
             "repo": "admin-one-vue-tailwind",
-            "stars": 2468,
+            "stars": 2469,
             "topics": [
               "dashboard",
               "tailwind",
@@ -472,7 +472,7 @@
             "open_issues": 8,
             "owner": "JustGoodUI",
             "repo": "dante-astro-theme",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "astro",
               "astro-template",
@@ -533,7 +533,7 @@
             "open_issues": 54,
             "owner": "themesberg",
             "repo": "flowbite-datepicker",
-            "stars": 149,
+            "stars": 147,
             "topics": [
               "datepicker",
               "hacktoberfest",
@@ -619,7 +619,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-forms",
-            "stars": 4567,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-09-01T12:31:53Z",
+            "last_commit": "2026-09-02T21:40:44Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -805,7 +805,7 @@
             "open_issues": 0,
             "owner": "petekp",
             "repo": "tw-fade",
-            "stars": 95,
+            "stars": 98,
             "topics": [
               "css",
               "css-mask",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:28:31.022Z",
+    "last_updated": "2026-09-03T00:34:18.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15174,
+      "stars": 15177,
       "topics": [
         "apps",
         "awesome",
