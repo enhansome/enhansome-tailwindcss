@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T10:29:13Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97444,
+            "stars": 97451,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 110,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28733,
+            "stars": 28734,
             "topics": [
               "a11y",
               "accessibility",
@@ -145,7 +145,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7134,
+            "stars": 7135,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:17:06Z",
+            "last_commit": "2026-09-05T19:05:16Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "vardan-arm",
             "repo": "tailwind-to-inline",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "email",
               "inline-conversion",
@@ -297,7 +297,7 @@
             "open_issues": 45,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42293,
+            "stars": 42301,
             "topics": [
               "component",
               "component-library",
@@ -714,8 +714,8 @@
             "id": 437067148,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T04:34:15Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-05T06:01:49Z",
+            "open_issues": 9,
             "owner": "RyanClementsHax",
             "repo": "tailwindcss-themer",
             "stars": 314,
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:19:52.528Z",
+    "last_updated": "2026-09-06T00:10:52.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -920,7 +920,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-14T14:48:26Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
       "stars": 15179,
