@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T10:29:13Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97451,
+            "stars": 97462,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 110,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28734,
+            "stars": 28737,
             "topics": [
               "a11y",
               "accessibility",
@@ -239,7 +239,7 @@
             "open_issues": 6,
             "owner": "avencera",
             "repo": "rustywind",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "cli",
               "tailwind-css",
@@ -297,7 +297,7 @@
             "open_issues": 45,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42301,
+            "stars": 42310,
             "topics": [
               "component",
               "component-library",
@@ -407,7 +407,7 @@
             "open_issues": 8,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1723,
+            "stars": 1722,
             "topics": [
               "astro",
               "astro-template",
@@ -598,7 +598,7 @@
             "open_issues": 11,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6461,
+            "stars": 6463,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:10:52.868Z",
+    "last_updated": "2026-09-07T00:17:35.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 1,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15179,
+      "stars": 15181,
       "topics": [
         "apps",
         "awesome",
