@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97481,
+            "stars": 97482,
             "topics": [
               "css",
               "css-framework",
@@ -142,10 +142,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T15:45:41Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7136,
+            "stars": 7135,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T23:30:18Z",
+            "last_commit": "2026-09-09T15:04:50Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-08T21:20:59Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42332,
+            "stars": 42344,
             "topics": [
               "component",
               "component-library",
@@ -339,7 +339,7 @@
             "open_issues": 16,
             "owner": "themesberg",
             "repo": "flowbite-admin-dashboard",
-            "stars": 2879,
+            "stars": 2881,
             "topics": [
               "admin-dashboard",
               "charts",
@@ -598,7 +598,7 @@
             "open_issues": 11,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6463,
+            "stars": 6464,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -714,8 +714,8 @@
             "id": 437067148,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:01:49Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-09T04:40:45Z",
+            "open_issues": 10,
             "owner": "RyanClementsHax",
             "repo": "tailwindcss-themer",
             "stars": 314,
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-09-07T17:52:58Z",
+            "last_commit": "2026-09-09T21:52:41Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -805,7 +805,7 @@
             "open_issues": 0,
             "owner": "petekp",
             "repo": "tw-fade",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "css",
               "css-mask",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:30:12.245Z",
+    "last_updated": "2026-09-10T00:31:51.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
