@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97482,
+            "stars": 97495,
             "topics": [
               "css",
               "css-framework",
@@ -45,10 +45,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-13T16:12:31Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28742,
+            "stars": 28741,
             "topics": [
               "a11y",
               "accessibility",
@@ -145,7 +145,7 @@
             "open_issues": 15,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7135,
+            "stars": 7134,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:04:50Z",
+            "last_commit": "2026-09-10T22:26:57Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -214,8 +214,8 @@
             "id": 328128780,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:23:31Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-10T14:20:29Z",
+            "open_issues": 6,
             "owner": "rails",
             "repo": "tailwindcss-rails",
             "stars": 1586,
@@ -293,11 +293,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T21:20:59Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-10T20:31:41Z",
+            "open_issues": 44,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42344,
+            "stars": 42354,
             "topics": [
               "component",
               "component-library",
@@ -683,6 +683,36 @@
         },
         {
           "node_type": "item",
+          "title": "🎨 Themer",
+          "description": "Adds theming support for Tailwind CSS with CSS variables and variants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An unopinionated, scalable, tailwindcss theming solution",
+            "homepage": null,
+            "id": 437067148,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-09T04:40:45Z",
+            "open_issues": 10,
+            "owner": "RyanClementsHax",
+            "repo": "tailwindcss-themer",
+            "stars": 315,
+            "topics": [
+              "dark-mode",
+              "plugin",
+              "tailwind",
+              "tailwindcss",
+              "tailwindcss-plugin",
+              "themer",
+              "themes",
+              "theming"
+            ]
+          },
+          "first_seen": "2026-08-28T06:16:30.341Z"
+        },
+        {
+          "node_type": "item",
           "title": "💼 Scrollbar Hide",
           "description": "Adds class for visual hide scrollbar.",
           "children": [],
@@ -699,36 +729,6 @@
             "repo": "tailwind-scrollbar-hide",
             "stars": 315,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:16:30.341Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🎨 Themer",
-          "description": "Adds theming support for Tailwind CSS with CSS variables and variants.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An unopinionated, scalable, tailwindcss theming solution",
-            "homepage": null,
-            "id": 437067148,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-09T04:40:45Z",
-            "open_issues": 10,
-            "owner": "RyanClementsHax",
-            "repo": "tailwindcss-themer",
-            "stars": 314,
-            "topics": [
-              "dark-mode",
-              "plugin",
-              "tailwind",
-              "tailwindcss",
-              "tailwindcss-plugin",
-              "themer",
-              "themes",
-              "theming"
-            ]
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
         },
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-09-09T21:52:41Z",
+            "last_commit": "2026-09-10T23:49:00Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -805,7 +805,7 @@
             "open_issues": 0,
             "owner": "petekp",
             "repo": "tw-fade",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "css",
               "css-mask",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:31:51.228Z",
+    "last_updated": "2026-09-11T00:29:10.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15182,
+      "stars": 15181,
       "topics": [
         "apps",
         "awesome",
