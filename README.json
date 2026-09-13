@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97506,
+            "stars": 97527,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 111,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28744,
+            "stars": 28743,
             "topics": [
               "a11y",
               "accessibility",
@@ -102,7 +102,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-11T18:19:11Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "theron-wang",
             "repo": "Tailwind-CSS-for-Visual-Studio",
             "stars": 149,
@@ -145,7 +145,7 @@
             "open_issues": 15,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7132,
+            "stars": 7131,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -293,11 +293,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:43:56Z",
+            "last_commit": "2026-09-12T15:24:34Z",
             "open_issues": 46,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42361,
+            "stars": 42363,
             "topics": [
               "component",
               "component-library",
@@ -339,7 +339,7 @@
             "open_issues": 16,
             "owner": "themesberg",
             "repo": "flowbite-admin-dashboard",
-            "stars": 2881,
+            "stars": 2883,
             "topics": [
               "admin-dashboard",
               "charts",
@@ -407,7 +407,7 @@
             "open_issues": 8,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1722,
+            "stars": 1720,
             "topics": [
               "astro",
               "astro-template",
@@ -640,7 +640,7 @@
             "open_issues": 7,
             "owner": "barvian",
             "repo": "fluid-tailwind",
-            "stars": 1780,
+            "stars": 1779,
             "topics": [
               "clamp",
               "fluid",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:33:58.183Z",
+    "last_updated": "2026-09-13T00:13:02.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15180,
+      "stars": 15181,
       "topics": [
         "apps",
         "awesome",
