@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97527,
+            "stars": 97546,
             "topics": [
               "css",
               "css-framework",
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T04:05:53Z",
+            "last_commit": "2026-09-13T02:52:58Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T15:24:34Z",
-            "open_issues": 46,
+            "open_issues": 49,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42363,
+            "stars": 42367,
             "topics": [
               "component",
               "component-library",
@@ -472,7 +472,7 @@
             "open_issues": 8,
             "owner": "JustGoodUI",
             "repo": "dante-astro-theme",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "astro",
               "astro-template",
@@ -598,7 +598,7 @@
             "open_issues": 11,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6466,
+            "stars": 6467,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -801,7 +801,7 @@
             "id": 1271845704,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:29:10Z",
+            "last_commit": "2026-09-13T20:24:36Z",
             "open_issues": 0,
             "owner": "petekp",
             "repo": "tw-fade",
@@ -872,7 +872,7 @@
             "open_issues": 0,
             "owner": "the-lemonboy",
             "repo": "tailwindcss-px-to-viewport",
-            "stars": 10,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:13:02.962Z",
+    "last_updated": "2026-09-14T00:22:36.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15181,
+      "stars": 15182,
       "topics": [
         "apps",
         "awesome",
