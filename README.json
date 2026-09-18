@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97583,
+            "stars": 97596,
             "topics": [
               "css",
               "css-framework",
@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "theron-wang",
             "repo": "Tailwind-CSS-for-Visual-Studio",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "asp-net-core",
               "blazor",
@@ -166,7 +166,7 @@
             "open_issues": 43,
             "owner": "rogden",
             "repo": "tailwind-config-viewer",
-            "stars": 2215,
+            "stars": 2216,
             "topics": [
               "tailwind",
               "tailwind-css",
@@ -293,11 +293,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T22:22:05Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-17T14:36:02Z",
+            "open_issues": 49,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42394,
+            "stars": 42410,
             "topics": [
               "component",
               "component-library",
@@ -339,7 +339,7 @@
             "open_issues": 16,
             "owner": "themesberg",
             "repo": "flowbite-admin-dashboard",
-            "stars": 2884,
+            "stars": 2886,
             "topics": [
               "admin-dashboard",
               "charts",
@@ -598,7 +598,7 @@
             "open_issues": 11,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6469,
+            "stars": 6470,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-09-16T11:14:44Z",
+            "last_commit": "2026-09-18T00:05:26Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:51:11.218Z",
+    "last_updated": "2026-09-18T00:44:02.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15184,
+      "stars": 15183,
       "topics": [
         "apps",
         "awesome",
