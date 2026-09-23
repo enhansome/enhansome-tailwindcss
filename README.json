@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 75,
+            "open_issues": 77,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97632,
+            "stars": 97643,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 111,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28750,
+            "stars": 28749,
             "topics": [
               "a11y",
               "accessibility",
@@ -214,7 +214,7 @@
             "id": 328128780,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:20:29Z",
+            "last_commit": "2026-09-22T14:23:01Z",
             "open_issues": 7,
             "owner": "rails",
             "repo": "tailwindcss-rails",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-21T20:42:56Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42447,
+            "stars": 42454,
             "topics": [
               "component",
               "component-library",
@@ -373,7 +373,7 @@
             "open_issues": 34,
             "owner": "justboil",
             "repo": "admin-one-vue-tailwind",
-            "stars": 2469,
+            "stars": 2468,
             "topics": [
               "dashboard",
               "tailwind",
@@ -403,11 +403,11 @@
             "id": 491806564,
             "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:18:53Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-22T07:13:13Z",
+            "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "astro",
               "astro-template",
@@ -598,7 +598,7 @@
             "open_issues": 11,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6471,
+            "stars": 6472,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -893,7 +893,7 @@
             "open_issues": 0,
             "owner": "Jubstaaa",
             "repo": "tailwind-hitslop",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "a11y",
               "css",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:05:17.786Z",
+    "last_updated": "2026-09-23T00:53:20.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
