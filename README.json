@@ -19,7 +19,7 @@
             "open_issues": 77,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97643,
+            "stars": 97650,
             "topics": [
               "css",
               "css-framework",
@@ -192,7 +192,7 @@
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
-            "stars": 1868,
+            "stars": 1869,
             "topics": [
               "nuxt",
               "nuxt-module",
@@ -293,11 +293,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T20:42:56Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-23T15:24:30Z",
+            "open_issues": 51,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42454,
+            "stars": 42461,
             "topics": [
               "component",
               "component-library",
@@ -598,7 +598,7 @@
             "open_issues": 11,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6472,
+            "stars": 6474,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-09-18T19:57:31Z",
+            "last_commit": "2026-09-23T20:58:48Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:53:20.253Z",
+    "last_updated": "2026-09-24T00:50:10.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15187,
+      "stars": 15188,
       "topics": [
         "apps",
         "awesome",
