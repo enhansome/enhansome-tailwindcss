@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T17:15:40Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-25T19:32:43Z",
+            "open_issues": 78,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97662,
+            "stars": 97685,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 111,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28751,
+            "stars": 28753,
             "topics": [
               "a11y",
               "accessibility",
@@ -101,7 +101,7 @@
             "id": 668792750,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:43:04Z",
+            "last_commit": "2026-09-25T01:10:35Z",
             "open_issues": 1,
             "owner": "theron-wang",
             "repo": "Tailwind-CSS-for-Visual-Studio",
@@ -145,7 +145,7 @@
             "open_issues": 15,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7134,
+            "stars": 7136,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T00:20:02Z",
+            "last_commit": "2026-09-25T13:33:01Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -293,11 +293,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T19:48:28Z",
+            "last_commit": "2026-09-25T21:49:23Z",
             "open_issues": 47,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42473,
+            "stars": 42476,
             "topics": [
               "component",
               "component-library",
@@ -339,7 +339,7 @@
             "open_issues": 16,
             "owner": "themesberg",
             "repo": "flowbite-admin-dashboard",
-            "stars": 2886,
+            "stars": 2888,
             "topics": [
               "admin-dashboard",
               "charts",
@@ -407,7 +407,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "astro",
               "astro-template",
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-09-23T20:58:48Z",
+            "last_commit": "2026-09-25T16:39:32Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:44:47.575Z",
+    "last_updated": "2026-09-26T00:49:46.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
