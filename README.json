@@ -19,7 +19,7 @@
             "open_issues": 91,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97751,
+            "stars": 97754,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 115,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28766,
+            "stars": 28767,
             "topics": [
               "a11y",
               "accessibility",
@@ -297,7 +297,7 @@
             "open_issues": 46,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42526,
+            "stars": 42527,
             "topics": [
               "component",
               "component-library",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:22:26.028Z",
+    "last_updated": "2026-10-03T05:10:14.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15196,
+      "stars": 15198,
       "topics": [
         "apps",
         "awesome",
