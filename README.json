@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T19:32:43Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97754,
+            "stars": 97757,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 115,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28767,
+            "stars": 28765,
             "topics": [
               "a11y",
               "accessibility",
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:23:05Z",
+            "last_commit": "2026-10-04T00:27:40Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-30T02:05:20Z",
-            "open_issues": 46,
+            "open_issues": 48,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42527,
+            "stars": 42529,
             "topics": [
               "component",
               "component-library",
@@ -373,7 +373,7 @@
             "open_issues": 34,
             "owner": "justboil",
             "repo": "admin-one-vue-tailwind",
-            "stars": 2469,
+            "stars": 2470,
             "topics": [
               "dashboard",
               "tailwind",
@@ -472,7 +472,7 @@
             "open_issues": 6,
             "owner": "JustGoodUI",
             "repo": "dante-astro-theme",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "astro",
               "astro-template",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:14.384Z",
+    "last_updated": "2026-10-04T01:57:12.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
