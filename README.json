@@ -19,7 +19,7 @@
             "open_issues": 92,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97757,
+            "stars": 97771,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 115,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28765,
+            "stars": 28766,
             "topics": [
               "a11y",
               "accessibility",
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T00:27:40Z",
+            "last_commit": "2026-10-04T12:23:27Z",
             "open_issues": 28,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-30T02:05:20Z",
-            "open_issues": 48,
+            "open_issues": 52,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42529,
+            "stars": 42538,
             "topics": [
               "component",
               "component-library",
@@ -640,7 +640,7 @@
             "open_issues": 7,
             "owner": "barvian",
             "repo": "fluid-tailwind",
-            "stars": 1781,
+            "stars": 1782,
             "topics": [
               "clamp",
               "fluid",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:57:12.840Z",
+    "last_updated": "2026-10-05T01:12:00.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
