@@ -19,7 +19,7 @@
             "open_issues": 95,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97772,
+            "stars": 97773,
             "topics": [
               "css",
               "css-framework",
@@ -145,7 +145,7 @@
             "open_issues": 16,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7139,
+            "stars": 7141,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -297,7 +297,7 @@
             "open_issues": 52,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42544,
+            "stars": 42547,
             "topics": [
               "component",
               "component-library",
@@ -407,7 +407,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1731,
+            "stars": 1732,
             "topics": [
               "astro",
               "astro-template",
@@ -595,7 +595,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-08T10:27:36Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
             "stars": 6476,
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:27:41.256Z",
+    "last_updated": "2026-10-06T10:45:56.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15197,
+      "stars": 15196,
       "topics": [
         "apps",
         "awesome",
