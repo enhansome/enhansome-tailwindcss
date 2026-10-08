@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T19:32:43Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97788,
+            "stars": 97796,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 109,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28767,
+            "stars": 28770,
             "topics": [
               "a11y",
               "accessibility",
@@ -407,7 +407,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1732,
+            "stars": 1733,
             "topics": [
               "astro",
               "astro-template",
@@ -619,7 +619,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-forms",
-            "stars": 4565,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -693,8 +693,8 @@
             "id": 437067148,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T07:11:22Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-07T07:27:40Z",
+            "open_issues": 6,
             "owner": "RyanClementsHax",
             "repo": "tailwindcss-themer",
             "stars": 315,
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:46:09.098Z",
+    "last_updated": "2026-10-08T02:13:47.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15197,
+      "stars": 15195,
       "topics": [
         "apps",
         "awesome",
