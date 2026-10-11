@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T21:24:23Z",
-            "open_issues": 101,
+            "open_issues": 100,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97848,
+            "stars": 97855,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 109,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28769,
+            "stars": 28773,
             "topics": [
               "a11y",
               "accessibility",
@@ -145,7 +145,7 @@
             "open_issues": 16,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7139,
+            "stars": 7140,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,11 +188,11 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:27:25Z",
+            "last_commit": "2026-10-10T04:21:58Z",
             "open_issues": 29,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
-            "stars": 1868,
+            "stars": 1869,
             "topics": [
               "nuxt",
               "nuxt-module",
@@ -297,7 +297,7 @@
             "open_issues": 49,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42563,
+            "stars": 42570,
             "topics": [
               "component",
               "component-library",
@@ -407,7 +407,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1734,
+            "stars": 1735,
             "topics": [
               "astro",
               "astro-template",
@@ -773,7 +773,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-10-05T15:19:31Z",
+            "last_commit": "2026-10-10T09:59:09Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -840,7 +840,7 @@
             "open_issues": 0,
             "owner": "TheNaubit",
             "repo": "tailwind-dot-grid-backgrounds",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "dot",
               "dot-background",
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:53:25.949Z",
+    "last_updated": "2026-10-11T01:12:10.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15198,
+      "stars": 15199,
       "topics": [
         "apps",
         "awesome",
