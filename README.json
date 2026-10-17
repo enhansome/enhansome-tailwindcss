@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T21:18:06Z",
+            "last_commit": "2026-10-16T11:28:08Z",
             "open_issues": 85,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97877,
+            "stars": 97887,
             "topics": [
               "css",
               "css-framework",
@@ -45,7 +45,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-13T16:12:31Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "tailwindlabs",
             "repo": "headlessui",
             "stars": 28780,
@@ -105,7 +105,7 @@
             "open_issues": 1,
             "owner": "theron-wang",
             "repo": "Tailwind-CSS-for-Visual-Studio",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "asp-net-core",
               "blazor",
@@ -145,7 +145,7 @@
             "open_issues": 16,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7140,
+            "stars": 7138,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "vardan-arm",
             "repo": "tailwind-to-inline",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "email",
               "inline-conversion",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-13T11:45:53Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42607,
+            "stars": 42610,
             "topics": [
               "component",
               "component-library",
@@ -673,7 +673,7 @@
             "open_issues": 1,
             "owner": "jorenvanhee",
             "repo": "tailwindcss-debug-screens",
-            "stars": 673,
+            "stars": 672,
             "topics": [
               "tailwind",
               "tailwindcss-plugin"
@@ -911,7 +911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:40:21.748Z",
+    "last_updated": "2026-10-17T00:44:17.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -923,7 +923,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15200,
+      "stars": 15201,
       "topics": [
         "apps",
         "awesome",
