@@ -38,8 +38,8 @@
 
 **Legend**: 💙 Official resource
 
-* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 97,902 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-16 - Official Tailwind CSS repository.
-* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,780 | 🐛 114 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
+* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 97,921 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-16 - Official Tailwind CSS repository.
+* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,782 | 🐛 114 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
 * 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 * 💙 [Tailwind Plus](https://tailwindcss.com/plus) - UI blocks, templates, and a UI kit by the Tailwind CSS team.
 * 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
@@ -59,9 +59,9 @@
 
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
-* 💙💼 [Prettier plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐ 7,137 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-29 - Official Tailwind CSS plugin for Prettier.
+* 💙💼 [Prettier plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐ 7,138 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-29 - Official Tailwind CSS plugin for Prettier.
 * 💼 [Config viewer](https://github.com/rogden/tailwind-config-viewer) ⭐ 2,213 | 🐛 43 | 🌐 Vue | 📅 2024-11-22 - Local UI tool for visualizing your Tailwind CSS configuration file.
-* 💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) ⭐ 1,868 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-17 - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
+* 💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) ⭐ 1,868 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-18 - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
 * 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) ⭐ 1,586 | 🐛 6 | 🌐 Ruby | 📅 2026-10-08 - Gem for using Tailwind CSS with Rails' asset pipeline.
 * 🔼 [RustyWind](https://github.com/avencera/rustywind) ⭐ 626 | 🐛 8 | 🌐 Rust | 📅 2026-10-15 - CLI tool for sorting Tailwind CSS classes.
 * 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-19 - Converts Tailwind CSS classes to inline styles in email templates.
@@ -86,8 +86,8 @@
 
 **Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
 
-* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,614 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-17 - UI Components for Tailwind CSS.
-* 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,890 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,622 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-17 - UI Components for Tailwind CSS.
+* 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,891 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 * 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) ⭐ 2,469 | 🐛 34 | 🌐 Vue | 📅 2025-11-27 - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 * 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,736 | 🐛 7 | 🌐 Astro | 📅 2026-09-22 - Tailwind CSS Astro starter template.
 * 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) ⭐ 589 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-24 - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
@@ -141,4 +141,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
