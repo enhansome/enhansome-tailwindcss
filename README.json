@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-02T18:51:41Z",
-            "open_issues": 119,
+            "open_issues": 122,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98054,
+            "stars": 98060,
             "topics": [
               "css",
               "css-framework",
@@ -145,7 +145,7 @@
             "open_issues": 26,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7135,
+            "stars": 7136,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T02:59:33Z",
+            "last_commit": "2026-11-04T00:16:40Z",
             "open_issues": 29,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -214,8 +214,8 @@
             "id": 328128780,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:18:28Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-03T14:22:58Z",
+            "open_issues": 8,
             "owner": "rails",
             "repo": "tailwindcss-rails",
             "stars": 1587,
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6485,
+            "stars": 6486,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -657,7 +657,7 @@
             "open_issues": 3,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-forms",
-            "stars": 4563,
+            "stars": 4562,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -678,7 +678,7 @@
             "open_issues": 7,
             "owner": "barvian",
             "repo": "fluid-tailwind",
-            "stars": 1781,
+            "stars": 1780,
             "topics": [
               "clamp",
               "fluid",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:40:10.845Z",
+    "last_updated": "2026-11-04T02:38:50.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -961,7 +961,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15221,
+      "stars": 15222,
       "topics": [
         "apps",
         "awesome",
