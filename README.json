@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:51:41Z",
-            "open_issues": 122,
+            "last_commit": "2026-11-04T22:00:14Z",
+            "open_issues": 120,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98060,
+            "stars": 98065,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 122,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28805,
+            "stars": 28809,
             "topics": [
               "a11y",
               "accessibility",
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "vardan-arm",
             "repo": "tailwind-to-inline",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "email",
               "inline-conversion",
@@ -332,10 +332,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-31T12:32:39Z",
-            "open_issues": 40,
+            "open_issues": 42,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42732,
+            "stars": 42738,
             "topics": [
               "component",
               "component-library",
@@ -377,7 +377,7 @@
             "open_issues": 16,
             "owner": "themesberg",
             "repo": "flowbite-admin-dashboard",
-            "stars": 2897,
+            "stars": 2895,
             "topics": [
               "admin-dashboard",
               "charts",
@@ -411,7 +411,7 @@
             "open_issues": 34,
             "owner": "justboil",
             "repo": "admin-one-vue-tailwind",
-            "stars": 2469,
+            "stars": 2470,
             "topics": [
               "dashboard",
               "tailwind",
@@ -445,7 +445,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "astro",
               "astro-template",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6486,
+            "stars": 6485,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -678,7 +678,7 @@
             "open_issues": 7,
             "owner": "barvian",
             "repo": "fluid-tailwind",
-            "stars": 1780,
+            "stars": 1779,
             "topics": [
               "clamp",
               "fluid",
@@ -731,8 +731,8 @@
             "id": 437067148,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:46:04Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-04T08:50:02Z",
+            "open_issues": 7,
             "owner": "RyanClementsHax",
             "repo": "tailwindcss-themer",
             "stars": 315,
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:38:50.575Z",
+    "last_updated": "2026-11-05T02:43:03.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -961,7 +961,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15222,
+      "stars": 15223,
       "topics": [
         "apps",
         "awesome",
