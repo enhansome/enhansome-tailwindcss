@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T22:00:14Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-05T23:17:28Z",
+            "open_issues": 116,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98065,
+            "stars": 98088,
             "topics": [
               "css",
               "css-framework",
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T00:16:40Z",
+            "last_commit": "2026-11-06T01:54:45Z",
             "open_issues": 29,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "prosazhin",
             "repo": "tailwind-dictionary",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "build-system",
               "build-tool",
@@ -335,7 +335,7 @@
             "open_issues": 42,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42738,
+            "stars": 42750,
             "topics": [
               "component",
               "component-library",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6485,
+            "stars": 6484,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -731,8 +731,8 @@
             "id": 437067148,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T08:50:02Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-05T11:50:05Z",
+            "open_issues": 9,
             "owner": "RyanClementsHax",
             "repo": "tailwindcss-themer",
             "stars": 315,
@@ -811,7 +811,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-11-02T18:02:20Z",
+            "last_commit": "2026-11-05T23:44:26Z",
             "open_issues": 16,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:43:03.720Z",
+    "last_updated": "2026-11-06T02:46:47.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
