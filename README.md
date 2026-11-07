@@ -38,8 +38,8 @@
 
 **Legend**: 💙 Official resource
 
-* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 98,088 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-05 - Official Tailwind CSS repository.
-* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,809 | 🐛 122 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
+* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 98,169 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-06 - Official Tailwind CSS repository.
+* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,811 | 🐛 123 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
 * 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 * 💙 [Tailwind Plus](https://tailwindcss.com/plus) - UI blocks, templates, and a UI kit by the Tailwind CSS team.
 * 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
@@ -59,10 +59,10 @@
 
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
-* 💙💼 [Prettier plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐ 7,136 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29 - Official Tailwind CSS plugin for Prettier.
+* 💙💼 [Prettier plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) ⭐ 7,135 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29 - Official Tailwind CSS plugin for Prettier.
 * 💼 [Config viewer](https://github.com/rogden/tailwind-config-viewer) ⭐ 2,212 | 🐛 43 | 🌐 Vue | 📅 2024-11-22 - Local UI tool for visualizing your Tailwind CSS configuration file.
 * 💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) ⭐ 1,869 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-06 - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
-* 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) ⭐ 1,587 | 🐛 8 | 🌐 Ruby | 📅 2026-11-03 - Gem for using Tailwind CSS with Rails' asset pipeline.
+* 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) ⭐ 1,587 | 🐛 7 | 🌐 Ruby | 📅 2026-11-06 - Gem for using Tailwind CSS with Rails' asset pipeline.
 * 🔼 [RustyWind](https://github.com/avencera/rustywind) ⭐ 635 | 🐛 6 | 🌐 Rust | 📅 2026-11-02 - CLI tool for sorting Tailwind CSS classes.
 * 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-19 - Converts Tailwind CSS classes to inline styles in email templates.
 * 🌍🔧 [tailwind-dictionary](https://github.com/prosazhin/tailwind-dictionary) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Tailwind CSS theme generator from design tokens.
@@ -88,10 +88,10 @@
 
 **Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
 
-* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,750 | 🐛 42 | 🌐 JavaScript | 📅 2026-10-31 - UI Components for Tailwind CSS.
-* 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,895 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,762 | 🐛 42 | 🌐 JavaScript | 📅 2026-10-31 - UI Components for Tailwind CSS.
+* 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,896 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 * 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) ⭐ 2,470 | 🐛 34 | 🌐 Vue | 📅 2025-11-27 - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
-* 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,746 | 🐛 7 | 🌐 Astro | 📅 2026-11-01 - Tailwind CSS Astro starter template.
+* 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,748 | 🐛 7 | 🌐 Astro | 📅 2026-11-01 - Tailwind CSS Astro starter template.
 * 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) ⭐ 588 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-24 - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 * 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) ⭐ 519 | 🐛 7 | 🌐 Astro | 📅 2026-09-28 - Tailwind CSS & Astro blog/portfolio template.
 * 🧩 [Xtend UI](https://github.com/xtendui/xtendui) ⭐ 453 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27 - Tailwind CSS components with advanced interactions and animations.
@@ -119,7 +119,7 @@
 
 **Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧩 Components · 🛑 Deprecated
 
-* 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) ⭐ 6,484 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-08 - Adds a `prose` class for beautiful typographic defaults.
+* 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) ⭐ 6,486 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-08 - Adds a `prose` class for beautiful typographic defaults.
 * 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) ⭐ 4,562 | 🐛 3 | 🌐 HTML | 📅 2026-05-12 - Adds better default styles to form elements.
 * 💼🧩 [Fluid](https://github.com/barvian/fluid-tailwind) ⭐ 1,779 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-17 - Adds fluid `clamp()` versions of every built-in utility.
 * 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) ⭐ 672 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-27 - Adds a component that shows the currently active screen (responsive breakpoint).
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
