@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T16:12:06Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-10T00:16:21Z",
+            "open_issues": 120,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98648,
+            "stars": 98663,
             "topics": [
               "css",
               "css-framework",
@@ -45,10 +45,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-13T16:12:31Z",
-            "open_issues": 125,
+            "open_issues": 127,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28813,
+            "stars": 28817,
             "topics": [
               "a11y",
               "accessibility",
@@ -84,7 +84,7 @@
             "open_issues": 7,
             "owner": "merrickluo",
             "repo": "lsp-tailwindcss",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -166,7 +166,7 @@
             "open_issues": 43,
             "owner": "rogden",
             "repo": "tailwind-config-viewer",
-            "stars": 2212,
+            "stars": 2211,
             "topics": [
               "tailwind",
               "tailwind-css",
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T18:54:48Z",
+            "last_commit": "2026-11-09T23:38:39Z",
             "open_issues": 29,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -331,11 +331,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T12:38:45Z",
+            "last_commit": "2026-11-09T20:07:04Z",
             "open_issues": 43,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42766,
+            "stars": 42784,
             "topics": [
               "component",
               "component-library",
@@ -480,7 +480,7 @@
             "open_issues": 1,
             "owner": "justboil",
             "repo": "admin-one-react-tailwind",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "dashboard",
               "nextjs",
@@ -725,14 +725,14 @@
           "description": "Adds theming support for Tailwind CSS with CSS variables and variants.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "An unopinionated, scalable, tailwindcss theming solution",
             "homepage": null,
             "id": 437067148,
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-05T11:50:05Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "RyanClementsHax",
             "repo": "tailwindcss-themer",
             "stars": 315,
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:54:56.895Z",
+    "last_updated": "2026-11-10T04:17:02.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -961,7 +961,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15229,
+      "stars": 15230,
       "topics": [
         "apps",
         "awesome",
