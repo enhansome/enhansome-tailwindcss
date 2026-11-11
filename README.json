@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T00:16:21Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-11T00:08:59Z",
+            "open_issues": 118,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98663,
+            "stars": 98672,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 127,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28817,
+            "stars": 28822,
             "topics": [
               "a11y",
               "accessibility",
@@ -145,7 +145,7 @@
             "open_issues": 26,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7134,
+            "stars": 7135,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -192,7 +192,7 @@
             "open_issues": 29,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
-            "stars": 1869,
+            "stars": 1870,
             "topics": [
               "nuxt",
               "nuxt-module",
@@ -214,8 +214,8 @@
             "id": 328128780,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-06T16:12:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-10T14:22:46Z",
+            "open_issues": 9,
             "owner": "rails",
             "repo": "tailwindcss-rails",
             "stars": 1587,
@@ -239,7 +239,7 @@
             "open_issues": 6,
             "owner": "avencera",
             "repo": "rustywind",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "cli",
               "tailwind-css",
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "prosazhin",
             "repo": "tailwind-dictionary",
-            "stars": 9,
+            "stars": 14,
             "topics": [
               "build-system",
               "build-tool",
@@ -335,7 +335,7 @@
             "open_issues": 43,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42784,
+            "stars": 42803,
             "topics": [
               "component",
               "component-library",
@@ -408,7 +408,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2025-11-27T15:53:43Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "justboil",
             "repo": "admin-one-vue-tailwind",
             "stars": 2471,
@@ -480,7 +480,7 @@
             "open_issues": 1,
             "owner": "justboil",
             "repo": "admin-one-react-tailwind",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "dashboard",
               "nextjs",
@@ -507,7 +507,7 @@
             "language": "Astro",
             "license": "GPL-3.0",
             "last_commit": "2026-09-28T13:31:48Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "JustGoodUI",
             "repo": "dante-astro-theme",
             "stars": 519,
@@ -571,7 +571,7 @@
             "open_issues": 54,
             "owner": "themesberg",
             "repo": "flowbite-datepicker",
-            "stars": 147,
+            "stars": 146,
             "topics": [
               "datepicker",
               "hacktoberfest",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6486,
+            "stars": 6489,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -711,7 +711,7 @@
             "open_issues": 1,
             "owner": "jorenvanhee",
             "repo": "tailwindcss-debug-screens",
-            "stars": 672,
+            "stars": 671,
             "topics": [
               "tailwind",
               "tailwindcss-plugin"
@@ -874,8 +874,8 @@
             "id": 787317364,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T22:39:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-10T05:53:34Z",
+            "open_issues": 2,
             "owner": "TheNaubit",
             "repo": "tailwind-dot-grid-backgrounds",
             "stars": 41,
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:17:02.244Z",
+    "last_updated": "2026-11-11T02:11:12.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -961,7 +961,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15230,
+      "stars": 15231,
       "topics": [
         "apps",
         "awesome",
