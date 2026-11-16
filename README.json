@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-11T20:55:22Z",
-            "open_issues": 131,
+            "open_issues": 130,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98604,
+            "stars": 98625,
             "topics": [
               "css",
               "css-framework",
@@ -218,7 +218,7 @@
             "open_issues": 7,
             "owner": "rails",
             "repo": "tailwindcss-rails",
-            "stars": 1587,
+            "stars": 1586,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -331,11 +331,11 @@
             "id": 316836816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T07:56:16Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-16T00:07:36Z",
+            "open_issues": 38,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42840,
+            "stars": 42849,
             "topics": [
               "component",
               "component-library",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:05:21.284Z",
+    "last_updated": "2026-11-16T02:21:37.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -961,7 +961,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15237,
+      "stars": 15236,
       "topics": [
         "apps",
         "awesome",
