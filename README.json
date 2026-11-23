@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98698,
+            "stars": 98715,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 125,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28841,
+            "stars": 28845,
             "topics": [
               "a11y",
               "accessibility",
@@ -236,7 +236,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T20:46:09Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "avencera",
             "repo": "rustywind",
             "stars": 634,
@@ -259,9 +259,9 @@
             "homepage": "https://www.npmjs.com/package/tailwind-to-inline",
             "id": 850988913,
             "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-11-14T19:09:50Z",
-            "open_issues": 1,
+            "license": "MIT",
+            "last_commit": "2026-11-22T12:30:53Z",
+            "open_issues": 0,
             "owner": "vardan-arm",
             "repo": "tailwind-to-inline",
             "stars": 103,
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "prosazhin",
             "repo": "tailwind-dictionary",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "build-system",
               "build-tool",
@@ -332,10 +332,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-20T22:07:35Z",
-            "open_issues": 58,
+            "open_issues": 60,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42927,
+            "stars": 42940,
             "topics": [
               "component",
               "component-library",
@@ -445,7 +445,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1751,
+            "stars": 1752,
             "topics": [
               "astro",
               "astro-template",
@@ -843,7 +843,7 @@
             "open_issues": 0,
             "owner": "petekp",
             "repo": "tw-fade",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "css",
               "css-mask",
@@ -878,7 +878,7 @@
             "open_issues": 2,
             "owner": "TheNaubit",
             "repo": "tailwind-dot-grid-backgrounds",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "dot",
               "dot-background",
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:35:57.479Z",
+    "last_updated": "2026-11-23T03:01:53.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
@@ -961,7 +961,7 @@
       "open_issues": 0,
       "owner": "aniftyco",
       "repo": "awesome-tailwindcss",
-      "stars": 15235,
+      "stars": 15239,
       "topics": [
         "apps",
         "awesome",

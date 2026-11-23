@@ -38,8 +38,8 @@
 
 **Legend**: 💙 Official resource
 
-* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 98,698 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-20 - Official Tailwind CSS repository.
-* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,841 | 🐛 125 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
+* 💙 [Repository](https://github.com/tailwindcss/tailwindcss) ⭐ 98,715 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-20 - Official Tailwind CSS repository.
+* 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) ⭐ 28,845 | 🐛 125 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, fully accessible UI components.
 * 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 * 💙 [Tailwind Plus](https://tailwindcss.com/plus) - UI blocks, templates, and a UI kit by the Tailwind CSS team.
 * 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
@@ -63,9 +63,9 @@
 * 💼 [Config viewer](https://github.com/rogden/tailwind-config-viewer) ⭐ 2,210 | 🐛 43 | 🌐 Vue | 📅 2024-11-22 - Local UI tool for visualizing your Tailwind CSS configuration file.
 * 💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) ⭐ 1,870 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-21 - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
 * 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) ⭐ 1,584 | 🐛 7 | 🌐 Ruby | 📅 2026-11-18 - Gem for using Tailwind CSS with Rails' asset pipeline.
-* 🔼 [RustyWind](https://github.com/avencera/rustywind) ⭐ 634 | 🐛 6 | 🌐 Rust | 📅 2026-11-02 - CLI tool for sorting Tailwind CSS classes.
-* 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) ⭐ 103 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Converts Tailwind CSS classes to inline styles in email templates.
-* 🌍🔧 [tailwind-dictionary](https://github.com/prosazhin/tailwind-dictionary) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Tailwind CSS theme generator from design tokens.
+* 🔼 [RustyWind](https://github.com/avencera/rustywind) ⭐ 634 | 🐛 8 | 🌐 Rust | 📅 2026-11-02 - CLI tool for sorting Tailwind CSS classes.
+* 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) ⭐ 103 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Converts Tailwind CSS classes to inline styles in email templates.
+* 🌍🔧 [tailwind-dictionary](https://github.com/prosazhin/tailwind-dictionary) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Tailwind CSS theme generator from design tokens.
 * 🎨🌍🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 * 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 * 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
@@ -88,10 +88,10 @@
 
 **Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
 
-* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,927 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-20 - UI Components for Tailwind CSS.
+* 📚 [Daisy UI](https://github.com/saadeghi/daisyui) ⭐ 42,940 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-20 - UI Components for Tailwind CSS.
 * 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) ⭐ 2,896 | 🐛 16 | 🌐 HTML | 📅 2025-03-20 - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 * 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) ⭐ 2,469 | 🐛 33 | 🌐 Vue | 📅 2025-11-27 - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
-* 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,751 | 🐛 7 | 🌐 Astro | 📅 2026-11-01 - Tailwind CSS Astro starter template.
+* 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) ⭐ 1,752 | 🐛 7 | 🌐 Astro | 📅 2026-11-01 - Tailwind CSS Astro starter template.
 * 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) ⭐ 587 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-24 - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 * 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) ⭐ 524 | 🐛 8 | 🌐 Astro | 📅 2026-11-20 - Tailwind CSS & Astro blog/portfolio template.
 * 🧩 [Xtend UI](https://github.com/xtendui/xtendui) ⭐ 452 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27 - Tailwind CSS components with advanced interactions and animations.
@@ -126,9 +126,9 @@
 * 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) ⚠️ Archived - Adds theming support for Tailwind CSS with CSS variables and variants.
 * 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) ⭐ 315 | 🐛 0 | 🌐 HTML | 📅 2025-08-24 - Adds `scrollbar-hide` class for visual hide scrollbar.
 * 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) ⭐ 189 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-05 - Generates Bootstrap's style flexbox grid system.
-* 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) ⭐ 121 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-20 - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize) ⭐ 1,735 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-17.
-* 💼 [tw-fade](https://github.com/petekp/tw-fade) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 - Adds `fade-t`/`-b`/`-x`/`-y` utilities that enable scroll-aware edge fading.
-* 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) ⭐ 41 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
+* 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) ⭐ 121 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-20 - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize) ⭐ 1,736 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-17.
+* 💼 [tw-fade](https://github.com/petekp/tw-fade) ⭐ 107 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 - Adds `fade-t`/`-b`/`-x`/`-y` utilities that enable scroll-aware edge fading.
+* 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) ⭐ 42 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 * 💼 [px to viewport](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) ⭐ 27 | 🐛 0 | 🌐 CSS | 📅 2025-07-27 - Adds utilities to automatically convert px to vw / vh.
 * 💼 [tailwind-hitslop](https://github.com/Jubstaaa/tailwind-hitslop) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - Adds `hit-slop` utilities to invisibly expand touch targets, like React Native's `hitSlop`.
 
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
