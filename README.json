@@ -15,11 +15,11 @@
             "id": 106017343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T18:04:57Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-25T14:45:56Z",
+            "open_issues": 113,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98782,
+            "stars": 98835,
             "topics": [
               "css",
               "css-framework",
@@ -48,7 +48,7 @@
             "open_issues": 127,
             "owner": "tailwindlabs",
             "repo": "headlessui",
-            "stars": 28845,
+            "stars": 28848,
             "topics": [
               "a11y",
               "accessibility",
@@ -145,7 +145,7 @@
             "open_issues": 26,
             "owner": "tailwindlabs",
             "repo": "prettier-plugin-tailwindcss",
-            "stars": 7127,
+            "stars": 7128,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -188,7 +188,7 @@
             "id": 179467298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T04:14:44Z",
+            "last_commit": "2026-11-25T12:02:15Z",
             "open_issues": 29,
             "owner": "nuxt-modules",
             "repo": "tailwindcss",
@@ -235,8 +235,8 @@
             "id": 223418412,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T17:24:42Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-25T18:54:01Z",
+            "open_issues": 5,
             "owner": "avencera",
             "repo": "rustywind",
             "stars": 634,
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "prosazhin",
             "repo": "tailwind-dictionary",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "build-system",
               "build-tool",
@@ -332,10 +332,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-20T22:07:35Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "saadeghi",
             "repo": "daisyui",
-            "stars": 42990,
+            "stars": 42999,
             "topics": [
               "component",
               "component-library",
@@ -445,7 +445,7 @@
             "open_issues": 7,
             "owner": "chrismwilliams",
             "repo": "astro-theme-cactus",
-            "stars": 1754,
+            "stars": 1755,
             "topics": [
               "astro",
               "astro-template",
@@ -636,7 +636,7 @@
             "open_issues": 14,
             "owner": "tailwindlabs",
             "repo": "tailwindcss-typography",
-            "stars": 6490,
+            "stars": 6491,
             "topics": []
           },
           "first_seen": "2026-08-28T06:16:30.341Z"
@@ -811,7 +811,7 @@
             "id": 286581041,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-11-20T18:44:22Z",
+            "last_commit": "2026-11-25T19:04:41Z",
             "open_issues": 15,
             "owner": "stormwarning",
             "repo": "tailwindcss-capsize",
@@ -843,7 +843,7 @@
             "open_issues": 0,
             "owner": "petekp",
             "repo": "tw-fade",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "css",
               "css-mask",
@@ -927,8 +927,8 @@
             "id": 1258356437,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T11:28:57Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-26T03:12:01Z",
+            "open_issues": 1,
             "owner": "Jubstaaa",
             "repo": "tailwind-hitslop",
             "stars": 11,
@@ -949,7 +949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:59:59.517Z",
+    "last_updated": "2026-11-26T04:18:55.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome things related to Tailwind CSS",
